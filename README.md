@@ -22,7 +22,7 @@ Não há pré-requisitos além de um navegador moderno para executar o jogo.
 1. Clone o repositório para o seu computador:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Felipe-Ferreira-Pires/Jogo-.git)
     ```
 
 2. Navegue até o diretório do projeto:
@@ -71,6 +71,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Contato
 
-Seu Nome - seu-email@dominio.com
+Seu Nome - Felipe Ferreira Pires
 
-Link para o repositório: [https://github.com/seu-usuario/seu-repositorio](https://github.com/seu-usuario/seu-repositorio)
+Link para o repositório: [https://github.com/seu-usuario/seu-repositorio]([https://github.com/seu-usuario/seu-repositorio](https://github.com/Felipe-Ferreira-Pires/Jogo-.git))
